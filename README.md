@@ -1,7 +1,7 @@
 # Bioinformatics-Mania
 ParathyroidGeneSE analysis
 ---
-title: "assignment tutorpoint"
+title: "parathyroidgenesSE expression analysis"
 author: "Divya"
 date: "2022-11-03"
 output:
